@@ -22,7 +22,7 @@ To use this script, simply run it and provide the following arguments:
 
 Example:
 ```bash
-python passwordspray_rpcclient_advanced.py -u <user> -p <pass> -i <IP>
+python rpccclient_spray_smb.py -u <user> -p <pass> -i <IP>
 ```
 ## Requirements
 
