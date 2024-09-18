@@ -1,7 +1,7 @@
 # SMB Password Sprayer Using rpcclient
 
 A Python script that uses the `rpcclient` command to perform password spraying attacks against SMB server.
-This script allows you to test multiple usernames and passwords from files or provide them individually.
+This script allows you to test multiple usernames and passwords from lists or provide them individually.
 
 It can be used as a supportive tools in case Hydra or netexec (crackmapexec) will not find anything. Sometimes rpcclient or metasploit (scanner/smb_login) can uncover working credentials.
 
